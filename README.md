@@ -2,7 +2,7 @@
 # play-r.oguelike
 
 <!-- badges: start -->
-[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-dray/play-r.oguelike/master?urlpath=rstudio)
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-dray/play-r.oguelike/main?urlpath=rstudio)
 <!-- badges: end -->
 
 [The {r.oguelike} R package](https://github.com/matt-dray/r.oguelike) contains a (work-in-progress) text-based [roguelike game](https://en.wikipedia.org/wiki/Roguelike) for R. A learning process to build a gameplay ‘engine’ from the ground up.
