@@ -1,17 +1,18 @@
 Type: Compendium
 Package: play-r.oguelike
 Title: Demo Of 'r.oguelike': Play a Roguelike Game In The Console
-Version: 0.0.1
+Version: 0.0.9006
 Authors@R: 
     person(given = "Matt",
            family = "Dray",
            role = c("aut", "cre"),
            email = "mwdray@gmail.com")
-Description: A Binder instance of RStudio for trying the
-    'r.oguelike' package. a simple ASCII game in the console inspired heavily by
+Description: A Binder instance of RStudio for trying the 'r.oguelike' package. 
+    Play a simple ASCII-only tile-based game in the console inspired heavily by 
     roguelike games, particularly Rogue (1980) itself. Work in progress.
-Remotes: matt-dray/r2eng
+Remotes: matt-dray/r.oguelike
 Encoding: UTF-8
 LazyData: true
 Imports:
+    crayon,
     keypress
