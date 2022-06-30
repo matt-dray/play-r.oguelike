@@ -1,7 +1,7 @@
 Type: Compendium
 Package: play-r.oguelike
 Title: Demo Of 'r.oguelike': Play a Roguelike Game In The Console
-Version: 0.0.9006
+Version: 0.0.9008
 Authors@R: 
     person(given = "Matt",
            family = "Dray",
